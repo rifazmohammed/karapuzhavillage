@@ -1,0 +1,64 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Karappuzha Village Resort
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_B4FC18F5_BF95_5FFF_4189_F0FA05CFA3AE.label = Karapuzha Village
+album_B4FC18F5_BF95_5FFF_4189_F0FA05CFA3AE_0.label = IMG-20190605-WA0036
+album_B4FC18F5_BF95_5FFF_4189_F0FA05CFA3AE_1.label = Resort Long view - Copy
+panorama_6812B5A3_61B6_468E_41C0_E1AC5223FEB8.label = Waterfront Three Bed Room Villa
+panorama_68151F87_61B6_4296_41C4_0D8DB984186C.label = Waterfront Three Bed Room Villa
+panorama_68152377_61B6_4276_41D0_7AC9BE2F2D0F.label = Waterfront Three Bed Room Villa
+panorama_68154B97_61B6_C2B6_41C4_58693B4A1AD1.label = Waterfront Independent Cottage
+panorama_68154E2C_61B5_C59A_41D3_FC4101B1DFF8.label = Campfire
+panorama_68155784_61B6_C28A_41BE_BDB456C9D9BE.label = Waterfront Deluxe Room
+panorama_68157D36_61B5_C7F6_41D5_87E14B4B3374.label = Resort Entrance
+panorama_68159E82_61B5_C28E_41C5_D4115CE594DD.label = Spa
+panorama_6815ADD3_61B5_C68D_41D3_D51BCDF82708.label = Reception
+panorama_6815B1E5_61B6_7E8A_41D1_1B276A281D87.label = Water Front Twin Bed Room
+panorama_6815D4AE_61B6_4696_41B7_A7A5F88CACAD.label = Water Front Twin Bed Room
+panorama_6815FD4F_61B6_4796_41D5_AC726E4E37D6.label = Swimming Pool
+panorama_6815FFA0_61B6_428A_41CD_0088073A391C.label = Centre Stage
+panorama_68167500_61B6_478A_41A9_4258473E09CC.label = Water Front Twin Bed Room
+panorama_68168DB9_61B6_C6FD_41CA_40DA3A817452.label = Waterfront Independent Cottage
+panorama_6816A5A9_61B6_469A_41B4_2CA42E8E3725.label = Waterfront Three Bed Room Villa
+panorama_6816B91F_61B6_CFB6_4199_F35B3934A899.label = Waterfront Independent Cottage
+panorama_6816D143_61B6_5F8E_41A3_1AF2178FA7B1.label = Waterfront Three Bed Room Villa
+panorama_6816F7EC_61B6_429A_41D4_759109B3A378.label = Waterfront Three Bed Room Villa
+panorama_68171C64_61B7_C58A_41D7_52E2F3A3F8B7.label = Waterfront Three Bed Room Villa
+panorama_68172371_61B6_438A_41D5_E47BCAA7FD04.label = Waterfront Premium Room
+panorama_681739DF_61B7_CEB6_41D0_825C84E9263C.label = Waterfront Three Bed Room Villa
+panorama_68175D18_61B7_C7BA_41C0_0E5438582D6C.label = Restaurant
+panorama_68176EF6_61B7_C276_41D5_00C57D6C76FD.label = Waterfront Premium Room
+panorama_6817917F_61B6_3E76_41C9_A85198CE3BD5.label = Waterfront Premium Room
+panorama_6B38F3E3_61B6_428E_41D7_726085C82E16.label = Waterfront Three Bed Room Villa
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = http://www.karapuzhavillageresort.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = http://www.karapuzhavillageresort.com
